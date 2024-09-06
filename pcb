@@ -1,0 +1,13 @@
+what is pcb and why it is used
+pcb doc
+yt video notes
+teja material
+mils unit
+error_cal_doc
+ASP AVR Programming Device
+
+FR4 is a glass-reinforced epoxy laminate made from a combination of epoxy resin and fiberglass. It offers excellent thermal stability, high mechanical strength, and good dielectric properties
+
+ERC and DRC check after routing
+
+ERC and DRC are crucial checks in the Eagle PCB design process. ERC stands for Electrical Rules Check, which ensures that the design complies with electrical design rules. It checks for issues such as short circuits, open circuits, and voltage drops. On the other hand, DRC stands for Design Rule Check, which verifies that the design meets physical design rules, including component placement, trace routing, and clearance. Both checks are essential to prevent errors and REACH (Resist Electromagnetic Interference and Harmonize) in the printed circuit board (PCB) design. Running these checks ensures a reliable and manufacturable board.
